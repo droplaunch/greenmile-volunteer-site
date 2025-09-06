@@ -1,0 +1,37 @@
+img {border: 1em ; height: 200px; width: 200px; margin: 1em;vertical-align: up}
+
+.center{display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;}
+.h6
+{ color: green; text-shadow: 0 0 7px #fff, 0 0 10px #fff, 0 0 21px #fff, 0 0 42px #0fa, 0 0 82px #0fa, 0 0 92px #0fa, 0 0 102px #0fa, 0 0 151px #0fa; }
+
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: black ;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color:white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color:blue;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+
+body {background-color:antiquewhite;
